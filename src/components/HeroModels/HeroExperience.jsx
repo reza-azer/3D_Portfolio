@@ -1,9 +1,11 @@
 import { OrbitControls } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
 import { useMediaQuery } from "react-responsive";
-import { Room } from "./Room";
+
 import { Chip } from "./Chip";
 import HeroLights from "./HeroLights";
+import { PC } from "./PC";
+import { Room } from "./Modern_living_room";
 const HeroExperience = () => {
     const isTablet = useMediaQuery({ query: '(max-width: 1024px)'});
     const isMobile = useMediaQuery({ query: '(max-width: 768px)'}); // Replace with actual logic to determine if the device is a tablet
@@ -25,7 +27,7 @@ const HeroExperience = () => {
                 rotation={[0, 90, 0]}
             >
                 
-                <Chip />
+               <Chip />
             </group>
         </Canvas>
     );
