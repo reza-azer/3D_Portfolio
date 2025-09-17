@@ -16,7 +16,7 @@ const App = () => {
       <LogoSection />
       <FeatureCards />
       <ExperienceSection />
-      <TechStack />
+      {/* <TechStack /> */}
     </>
   );
 };
