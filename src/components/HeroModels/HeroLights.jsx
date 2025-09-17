@@ -1,8 +1,8 @@
 const HeroLights = () => {
     return (
         <>
-        <ambientLight intensity={0.12} color="#002affff" />
-        <directionalLight position={[5, 5, 5]} intensity={0.2} />
+        {/* <ambientLight intensity={0.12} color="#002affff" />
+        <directionalLight position={[5, 5, 5]} intensity={0.2} /> */}
 
         {/* <spotLight
         position={[2,5,6]}

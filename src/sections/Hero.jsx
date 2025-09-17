@@ -12,7 +12,7 @@ const Hero = () => {
             {y: 0, opacity: 1, duration: 1, ease: "power2.inOut", stagger: 0.2});
     })
     return (
-    <section id="Hero" className="relative overflow-hidden">
+    <section id="hero" className="relative overflow-hidden">
         <div className="absolute top-0 left-0 z-10">
             <img src="/images/bg.png" alt="background" />
         </div>
