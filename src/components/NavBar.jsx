@@ -42,7 +42,7 @@ const NavBar = () => {
         <header className="navbar" style={navStyle}>
             <div className="inner">
                 <a className="logo" href="#hero">
-                    <img src="public\images\MyLogo.png" alt="rezafahalafi" />
+                    <img src="/images/MyLogo.png" alt="rezafahalafi" />
                 </a>
 
                 <nav className="desktop">
