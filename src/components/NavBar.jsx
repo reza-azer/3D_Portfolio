@@ -57,7 +57,7 @@ const NavBar = () => {
                         ))}
                     </ul>
                 </nav>
-
+                {/* REPLACE THIS BUTTON WITH THE ANIMATED BUTTON */}
                 <a href="#contact" className="contact-btn">
                     <div className="inner">
                         <span>Contact Me</span>

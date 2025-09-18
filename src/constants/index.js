@@ -1,6 +1,6 @@
 const navLinks = [
   {
-    name: "Work",
+    name: "Projects",
     link: "#work",
   },
   {
@@ -12,7 +12,7 @@ const navLinks = [
     link: "#skills",
   },
   {
-    name: "Testimonials",
+    name: "About Me",
     link: "#testimonials",
   },
 ];
@@ -250,23 +250,33 @@ const testimonials = [
 const socialImgs = [
   {
     name: "insta",
-    url: "https://www.instagram.com/",
+    url: "https://www.instagram.com/rezafahalafi",
     imgPath: "/images/insta.png",
   },
   {
-    name: "fb",
-    url: "https://www.facebook.com/",
-    imgPath: "/images/fb.png",
-  },
-  {
-    name: "x",
-    url: "https://www.x.com/",
-    imgPath: "/images/x.png",
+    name: "github",
+    url: "https://www.github.com/reza-azer",
+    imgPath: "/images/git.png",
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/",
+    url: "https://www.linkedin.com/in/rezafahalafi",
     imgPath: "/images/linkedin.png",
+  },
+  {
+    name: "steam",
+    url: "https://steamcommunity.com/profiles/76561199552140913/",
+    imgPath: "/images/steam.png",
+  },
+  {
+    name: "ubi",
+    url: "https://ubisoftconnect.com/user/BasimIbnIshaq.7",
+    imgPath: "/images/ubi.png",
+  },
+  {
+    name: "bnet",
+    url: "https://www.blizzard.com/en-us/NightKnight#3890942",
+    imgPath: "/images/bnet.png",
   },
 ];
 
