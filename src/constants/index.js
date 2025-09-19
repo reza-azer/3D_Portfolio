@@ -18,14 +18,14 @@ const navLinks = [
 ];
 
 const words = [
-  { text: "Ideas", imgPath: "/images/ideas.svg" },
-  { text: "Concepts", imgPath: "/images/concepts.svg" },
-  { text: "Designs", imgPath: "/images/designs.svg" },
-  { text: "Code", imgPath: "/images/code.svg" },
-  { text: "Ideas", imgPath: "/images/ideas.svg" },
-  { text: "Concepts", imgPath: "/images/concepts.svg" },
-  { text: "Designs", imgPath: "/images/designs.svg" },
-  { text: "Code", imgPath: "/images/code.svg" },
+  { text: "Data", imgPath: "/images/designs.svg" },
+  { text: "Systems", imgPath: "/images/code.svg" },
+  { text: "Algorithms", imgPath: "/images/arrow-right.svg" },
+  { text: "Business Insight", imgPath: "/images/code.svg" },
+  { text: "Predictive Models", imgPath: "/images/ideas.svg" },
+  { text: "Digital Strategies", imgPath: "/images/concepts.svg" },
+  { text: "Innovative Ideas", imgPath: "/images/ideas.svg" },
+  { text: "Complex Problems", imgPath: "/images/code.svg" },
 ];
 
 const counterItems = [
@@ -73,17 +73,32 @@ const logoIconsList = [
 
 const abilities = [
   {
-    imgPath: "/images/seo.png",
-    title: "Quality Focus",
-    desc: "Delivering high-quality results while maintaining attention to every detail.",
+    imgPath: "💡",
+    title: "Systems Thinking & Innovation",
+    desc: "Combines design thinking and systems thinking approaches to create innovative yet structured solutions that deliver real-world impact and long-term value.",
   },
   {
-    imgPath: "/images/chat.png",
+    imgPath: "🤖",
+    title: "Applied Machine Learning",
+    desc: "Experienced in developing pattern recognition models using Weightless Neural Network (WNN) for computer vision, while currently deepening expertise in Python, SQL, and machine learning through the IBM Data Science Professional Certificate",
+  },
+  {
+    imgPath: "🪄",
+    title: "Data-Driven Problem Solving",
+    desc: "Skilled at collecting and analyzing data from diverse sources to uncover patterns, generate actionable insights, and drive strategic decisions.",
+  },
+  {
+    imgPath: "🧠",
+    title: "Hybrid Technical-Business Mindset",
+    desc: "Able to bridge the gap between business stakeholders and technical teams. Equipped with a strong computer engineering foundation while mastering solution architecture, business analysis, and full system implementation lifecycle.",
+  },
+  {
+    imgPath: "✔️",
     title: "Reliable Communication",
     desc: "Keeping you updated at every step to ensure transparency and clarity.",
   },
   {
-    imgPath: "/images/time.png",
+    imgPath: "⏳",
     title: "On-Time Delivery",
     desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
   },

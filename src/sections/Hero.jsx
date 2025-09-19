@@ -42,12 +42,14 @@ const Hero = () => {
                         <h1>that Deliver Results</h1>
                     </div>
                 <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-                    Hi, I'm Reza, who passionate in Data Scientist and Creative Design. I specialize in transforming ideas into real projects that deliver results. Let's collaborate to bring your vision to life!
+                    I’m a Computer Engineering graduate with a passion for data, systems, and innovation.
+                    With hands-on experience in robotics, IoT, business analytics, and machine learning, I bridge the gap between technical complexity and business impact.
+                    Currently pursuing the IBM Data Science Professional Certificate, I’m sharpening my ability to transform raw data into strategic insights that drive real-world results.
                 </p>
                 <Button
                     className="md:w-80 md:h-16 w-60 h-12"
                     id="button"
-                    text="See My Work"
+                    text="Let's Explore"
                 />
                 </div>
             </header>
