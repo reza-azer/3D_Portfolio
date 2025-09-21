@@ -19,9 +19,10 @@ const Experience = () => {
             <OrbitControls
             maxDistance={4}
             minDistance={1}
-            // autoRotate
             minPolarAngle={Math.PI / 2}
             maxPolarAngle={Math.PI / 1.75}
+            minAzimuthAngle={Math.PI / 7}
+            maxAzimuthAngle={Math.PI / 1}
             enablePan={false}
             />
 
